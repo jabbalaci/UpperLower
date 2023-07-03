@@ -1,8 +1,6 @@
 #!/usr/bin/env python3
 
-import readline
-
-from upperlower.lib import clipboard as cb
+import upperlower.lib.clipboard as cb
 
 
 def main():
